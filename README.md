@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sufiyan Tahir</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyan2401&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyan2401" /> </p>
+<p align="left"> <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science-900x387.jpg" alt="sufiyan2401" /> </p>
 
 - 🌱 I’m currently learning **Nodejs,MongoDb & ReactNative**
 
