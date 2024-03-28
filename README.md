@@ -109,18 +109,9 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-  </p>
-
-</details>
 
 
-<details>
+
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
 	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
@@ -137,7 +128,6 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 </p>
 <br />
 
-</details>
 
 ---
 
