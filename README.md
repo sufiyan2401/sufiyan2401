@@ -26,7 +26,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Junir MERN Stack Developer**
+- 👨‍🎓 I'm a **MERN Stack Developer**
 - 🔭 I’m currently working on React & Next Js platform
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
